@@ -10,6 +10,7 @@
     "wine_vanilla.json",
     "wine_staging.json",
     "wine_staging_tkg.json",
+    "wine_lutris.json",
     "dxvk_vanilla.json",
     "dxvk_async.json",
     "dxvk_gplasync.json"
