@@ -2,6 +2,10 @@
     "version": 1,
     "display_name": "Wine (Vanilla)",
     "versions": [
+      {
+        "version": "10.13-wine-vanilla",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-amd64.tar.xz"
+      },
         {
             "version": "10.12-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-amd64.tar.xz"
