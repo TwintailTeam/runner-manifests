@@ -3,6 +3,10 @@
   "display_name": "DXVK (Vanilla)",
   "versions": [
     {
+      "version": "2.7.1-vanilla",
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz"
+    },
+    {
       "version": "2.7.0-vanilla",
       "url": "https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz"
     },
