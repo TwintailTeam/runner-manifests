@@ -4,7 +4,6 @@
   "maintainers": ["TukanDev"],
   "manifests": [
     "proton_cachyos.json",
-    "proton_cachyos_spritz.json",
     "proton_ge.json",
     "proton_em.json",
     "proton_vanilla.json",
