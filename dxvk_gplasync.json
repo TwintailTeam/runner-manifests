@@ -3,6 +3,10 @@
   "display_name": "DXVK (Gplasync)",
   "versions": [
     {
+      "version": "2.7.1-1-gplasync",
+      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.7.1-1.tar.gz"
+    },
+    {
       "version": "2.7.0-1-gplasync",
       "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.7-1.tar.gz"
     },
