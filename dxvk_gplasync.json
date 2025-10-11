@@ -21,62 +21,6 @@
     {
       "version": "2.6.0-1-gplasync",
       "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.6-1.tar.gz"
-    },
-    {
-      "version": "2.5.3-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5.3-1.tar.gz"
-    },
-    {
-      "version": "2.5.2-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5.2-1.tar.gz"
-    },
-    {
-      "version": "2.5.1-2-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5.1-2.tar.gz"
-    },
-    {
-      "version": "2.5.1-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5.1-1.tar.gz"
-    },
-    {
-      "version": "2.5-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5-1.tar.gz"
-    },
-    {
-      "version": "2.4.1-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.4.1-1.tar.gz"
-    },
-    {
-      "version": "2.4-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.4-1.tar.gz"
-    },
-    {
-      "version": "2.3.1-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.3.1-1.tar.gz"
-    },
-    {
-      "version": "2.3-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.3-1.tar.gz"
-    },
-    {
-      "version": "2.2-4-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.2-4.tar.gz"
-    },
-    {
-      "version": "2.2-3-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.2-3.tar.gz"
-    },
-    {
-      "version": "2.2-2-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.2-2.tar.gz"
-    },
-    {
-      "version": "2.2-1-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.2-1.tar.gz"
-    },
-    {
-      "version": "2.1-4-gplasync",
-      "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.1-4.tar.gz"
     }
   ],
   "paths": {
