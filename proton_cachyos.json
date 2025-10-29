@@ -3,6 +3,14 @@
     "display_name": "Proton (CachyOS)",
     "versions": [
       {
+        "version": "10.0-20251023-proton-cachyos",
+        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251023-slr/proton-cachyos-10.0-20251023-slr-x86_64.tar.xz"
+      },
+      {
+        "version": "10.0-20251017-proton-cachyos",
+        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251017-slr/proton-cachyos-10.0-20251017-slr-x86_64.tar.xz"
+      },
+      {
         "version": "10.0-20251015-proton-cachyos",
         "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251015-slr/proton-cachyos-10.0-20251015-slr-x86_64.tar.xz"
       },
