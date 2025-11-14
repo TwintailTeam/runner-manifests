@@ -4,11 +4,19 @@
     "versions": [
       {
         "version": "10.0-2c-proton-vanilla",
-        "url": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-2c/proton-10.0-2c.tar.xz"
+        "url": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-2c/proton-10.0-2c.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-2c/proton-10.0-2c.tar.xz",
+          "aarch64": ""
+        }
       },
         {
             "version": "10.0-1f-proton-vanilla",
-            "url": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-1f/proton-10.0-1f.tar.xz"
+            "url": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-1f/proton-10.0-1f.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-1f/proton-10.0-1f.tar.xz",
+              "aarch64": ""
+            }
         }
     ],
     "paths": {

@@ -4,39 +4,75 @@
     "versions": [
       {
         "version": "10.18-wine-staging",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.18/wine-10.18-staging-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.18/wine-10.18-staging-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.18/wine-10.18-staging-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.17-wine-staging",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-staging-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-staging-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-staging-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.16-wine-staging",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.16/wine-10.16-staging-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.16/wine-10.16-staging-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.16/wine-10.16-staging-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.15-wine-staging",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.15/wine-10.15-staging-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.15/wine-10.15-staging-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.15/wine-10.15-staging-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.14-wine-staging",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-staging-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-staging-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-staging-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.13-wine-staging",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-staging-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-staging-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-staging-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
         {
             "version": "10.12-wine-staging",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-staging-amd64.tar.xz"
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-staging-amd64.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-staging-amd64.tar.xz",
+              "aarch64": ""
+            }
         },
         {
             "version": "10.11-wine-staging",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.11/wine-10.11-staging-amd64.tar.xz"
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.11/wine-10.11-staging-amd64.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.11/wine-10.11-staging-amd64.tar.xz",
+              "aarch64": ""
+            }
         },
         {
             "version": "10.10-wine-staging",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.10/wine-10.10-staging-amd64.tar.xz"
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.10/wine-10.10-staging-amd64.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.10/wine-10.10-staging-amd64.tar.xz",
+              "aarch64": ""
+            }
         }
     ],
     "paths": {

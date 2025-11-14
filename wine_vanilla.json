@@ -4,87 +4,75 @@
     "versions": [
       {
         "version": "10.18-wine-vanilla",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.18/wine-10.18-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.18/wine-10.18-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.18/wine-10.18-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.17-wine-vanilla",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.17/wine-10.17-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.16-wine-vanilla",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.16/wine-10.16-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.16/wine-10.16-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.16/wine-10.16-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.15-wine-vanilla",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.15/wine-10.15-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.15/wine-10.15-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.15/wine-10.15-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.14-wine-vanilla",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.14/wine-10.14-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
       {
         "version": "10.13-wine-vanilla",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-amd64.tar.xz"
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-amd64.tar.xz",
+        "urls": {
+          "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.13/wine-10.13-amd64.tar.xz",
+          "aarch64": ""
+        }
       },
         {
             "version": "10.12-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-amd64.tar.xz"
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-amd64.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.12/wine-10.12-amd64.tar.xz",
+              "aarch64": ""
+            }
         },
         {
             "version": "10.11-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.11/wine-10.11-amd64.tar.xz"
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.11/wine-10.11-amd64.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.11/wine-10.11-amd64.tar.xz",
+              "aarch64": ""
+            }
         },
         {
             "version": "10.10-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.10/wine-10.10-amd64.tar.xz"
-        },
-        {
-            "version": "10.9-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.9/wine-10.9-amd64.tar.xz"
-        },
-        {
-            "version": "10.8-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.8/wine-10.8-amd64.tar.xz"
-        },
-        {
-            "version": "10.7-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.7/wine-10.7-amd64.tar.xz"
-        },
-        {
-            "version": "10.6-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.6/wine-10.6-amd64.tar.xz"
-        },
-        {
-            "version": "10.5-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.5/wine-10.5-amd64.tar.xz"
-        },
-        {
-            "version": "10.4-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.4/wine-10.4-amd64.tar.xz"
-        },
-        {
-            "version": "10.3-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.3/wine-10.3-amd64.tar.xz"
-        },
-        {
-            "version": "10.2-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.2/wine-10.2-amd64.tar.xz"
-        },
-        {
-            "version": "10.1-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.1/wine-10.1-amd64.tar.xz"
-        },
-        {
-            "version": "10.0-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.0/wine-10.0-amd64.tar.xz"
-        },
-        {
-            "version": "9.22-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.22/wine-9.22-amd64.tar.xz"
-        },
-        {
-            "version": "9.21-wine-vanilla",
-            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.21/wine-9.21-amd64.tar.xz"
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.10/wine-10.10-amd64.tar.xz",
+            "urls": {
+              "x86_64": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.10/wine-10.10-amd64.tar.xz",
+              "aarch64": ""
+            }
         }
     ],
     "paths": {

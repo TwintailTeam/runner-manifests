@@ -4,23 +4,43 @@
   "versions": [
     {
       "version": "2.7.1-vanilla",
-      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz"
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/doitsujin/dxvk/releases/download/v2.7.1/dxvk-2.7.1.tar.gz",
+        "aarch64": ""
+      }
     },
     {
       "version": "2.7.0-vanilla",
-      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz"
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/doitsujin/dxvk/releases/download/v2.7/dxvk-2.7.tar.gz",
+        "aarch64": ""
+      }
     },
     {
       "version": "2.6.2-vanilla",
-      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.6.2/dxvk-2.6.2.tar.gz"
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.6.2/dxvk-2.6.2.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/doitsujin/dxvk/releases/download/v2.6.2/dxvk-2.6.2.tar.gz",
+        "aarch64": ""
+      }
     },
     {
       "version": "2.6.1-vanilla",
-      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.6.1/dxvk-2.6.1.tar.gz"
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.6.1/dxvk-2.6.1.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/doitsujin/dxvk/releases/download/v2.6.1/dxvk-2.6.1.tar.gz",
+        "aarch64": ""
+      }
     },
     {
       "version": "2.6.0-vanilla",
-      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.6/dxvk-2.6.tar.gz"
+      "url": "https://github.com/doitsujin/dxvk/releases/download/v2.6/dxvk-2.6.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/doitsujin/dxvk/releases/download/v2.6/dxvk-2.6.tar.gz",
+        "aarch64": ""
+      }
     }
   ],
   "paths": {
