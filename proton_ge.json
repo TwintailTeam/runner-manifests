@@ -1,132 +1,132 @@
 {
-    "version": 1,
-    "display_name": "Proton (GE)",
-    "versions": [
-      {
-        "version": "10.26-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.25-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-25/GE-Proton10-25.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-25/GE-Proton10-25.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.24-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-24/GE-Proton10-24.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-24/GE-Proton10-24.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.23-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-23/GE-Proton10-23.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-23/GE-Proton10-23.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.22-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-22/GE-Proton10-22.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-22/GE-Proton10-22.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.21-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-21/GE-Proton10-21.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-21/GE-Proton10-21.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.17-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.15-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-15/GE-Proton10-15.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-15/GE-Proton10-15.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.14-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-14/GE-Proton10-14.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-14/GE-Proton10-14.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.13-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.12-proton-ge",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
-        "urls": {
-          "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
-          "aarch64": ""
-        }
-      },
-        {
-          "version": "10.11-proton-ge",
-          "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
-          "urls": {
-            "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
-            "aarch64": ""
-          }
-        },
-        {
-            "version": "10.10-proton-ge",
-            "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-10/GE-Proton10-10.tar.gz",
-            "urls": {
-              "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-10/GE-Proton10-10.tar.gz",
-              "aarch64": ""
-            }
-        },
-        {
-            "version": "9.26-proton-ge",
-            "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz",
-            "urls": {
-              "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz",
-              "aarch64": ""
-            }
-        },
-        {
-            "version": "9.25-proton-ge",
-            "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz",
-            "urls": {
-              "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz",
-              "aarch64": ""
-            }
-        }
-    ],
-    "paths": {
-        "wine32": "proton",
-        "wine64": "proton",
-        "wine_server": "files/bin/wineserver",
-        "wine_boot": ""
+  "version": 1,
+  "display_name": "Proton (GE)",
+  "versions": [
+    {
+      "version": "10.26-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.25-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-25/GE-Proton10-25.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-25/GE-Proton10-25.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.24-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-24/GE-Proton10-24.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-24/GE-Proton10-24.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.23-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-23/GE-Proton10-23.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-23/GE-Proton10-23.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.22-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-22/GE-Proton10-22.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-22/GE-Proton10-22.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.21-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-21/GE-Proton10-21.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-21/GE-Proton10-21.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.17-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.15-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-15/GE-Proton10-15.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-15/GE-Proton10-15.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.14-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-14/GE-Proton10-14.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-14/GE-Proton10-14.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.13-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.12-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.11-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.10-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-10/GE-Proton10-10.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-10/GE-Proton10-10.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "9.26-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "9.25-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz",
+        "aarch64": ""
+      }
     }
+  ],
+  "paths": {
+    "wine32": "proton",
+    "wine64": "proton",
+    "wine_server": "files/bin/wineserver",
+    "wine_boot": ""
+  }
 }

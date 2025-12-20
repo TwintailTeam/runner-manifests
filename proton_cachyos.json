@@ -1,116 +1,116 @@
 {
-    "version": 1,
-    "display_name": "Proton (CachyOS)",
-    "versions": [
-      {
-        "version": "10.0-20251126-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251126-slr/proton-cachyos-10.0-20251126-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251126-slr/proton-cachyos-10.0-20251126-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251120-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251120-slr/proton-cachyos-10.0-20251120-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251120-slr/proton-cachyos-10.0-20251120-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251107-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251107-slr/proton-cachyos-10.0-20251107-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251107-slr/proton-cachyos-10.0-20251107-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251023-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251023-slr/proton-cachyos-10.0-20251023-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251023-slr/proton-cachyos-10.0-20251023-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251017-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251017-slr/proton-cachyos-10.0-20251017-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251017-slr/proton-cachyos-10.0-20251017-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251015-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251015-slr/proton-cachyos-10.0-20251015-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251015-slr/proton-cachyos-10.0-20251015-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251008-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251008-slr/proton-cachyos-10.0-20251008-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251008-slr/proton-cachyos-10.0-20251008-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251007-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251007-slr/proton-cachyos-10.0-20251007-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251007-slr/proton-cachyos-10.0-20251007-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20251006-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251006-slr/proton-cachyos-10.0-20251006-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251006-slr/proton-cachyos-10.0-20251006-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20250919-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250919-slr/proton-cachyos-10.0-20250919-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250919-slr/proton-cachyos-10.0-20250919-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20250906-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250906-slr/proton-cachyos-10.0-20250906-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250906-slr/proton-cachyos-10.0-20250906-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20250820-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250820-slr/proton-cachyos-10.0-20250820-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250820-slr/proton-cachyos-10.0-20250820-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
-      },
-      {
-        "version": "10.0-20250807-proton-cachyos",
-        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250807-slr/proton-cachyos-10.0-20250807-slr-x86_64.tar.xz",
-        "urls": {
-          "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250807-slr/proton-cachyos-10.0-20250807-slr-x86_64.tar.xz",
-          "aarch64": ""
-        }
+  "version": 1,
+  "display_name": "Proton (CachyOS)",
+  "versions": [
+    {
+      "version": "10.0-20251126-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251126-slr/proton-cachyos-10.0-20251126-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251126-slr/proton-cachyos-10.0-20251126-slr-x86_64.tar.xz",
+        "aarch64": ""
       }
-    ],
-    "paths": {
-        "wine32": "proton",
-        "wine64": "proton",
-        "wine_server": "files/bin/wineserver",
-        "wine_boot": ""
+    },
+    {
+      "version": "10.0-20251120-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251120-slr/proton-cachyos-10.0-20251120-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251120-slr/proton-cachyos-10.0-20251120-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251107-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251107-slr/proton-cachyos-10.0-20251107-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251107-slr/proton-cachyos-10.0-20251107-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251023-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251023-slr/proton-cachyos-10.0-20251023-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251023-slr/proton-cachyos-10.0-20251023-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251017-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251017-slr/proton-cachyos-10.0-20251017-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251017-slr/proton-cachyos-10.0-20251017-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251015-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251015-slr/proton-cachyos-10.0-20251015-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251015-slr/proton-cachyos-10.0-20251015-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251008-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251008-slr/proton-cachyos-10.0-20251008-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251008-slr/proton-cachyos-10.0-20251008-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251007-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251007-slr/proton-cachyos-10.0-20251007-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251007-slr/proton-cachyos-10.0-20251007-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20251006-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251006-slr/proton-cachyos-10.0-20251006-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20251006-slr/proton-cachyos-10.0-20251006-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20250919-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250919-slr/proton-cachyos-10.0-20250919-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250919-slr/proton-cachyos-10.0-20250919-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20250906-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250906-slr/proton-cachyos-10.0-20250906-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250906-slr/proton-cachyos-10.0-20250906-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20250820-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250820-slr/proton-cachyos-10.0-20250820-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250820-slr/proton-cachyos-10.0-20250820-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
+      "version": "10.0-20250807-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250807-slr/proton-cachyos-10.0-20250807-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20250807-slr/proton-cachyos-10.0-20250807-slr-x86_64.tar.xz",
+        "aarch64": ""
+      }
     }
+  ],
+  "paths": {
+    "wine32": "proton",
+    "wine64": "proton",
+    "wine_server": "files/bin/wineserver",
+    "wine_boot": ""
+  }
 }
