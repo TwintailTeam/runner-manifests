@@ -3,6 +3,14 @@
   "display_name": "Proton (GE)",
   "versions": [
     {
+      "version": "10.27-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
+        "aarch64": ""
+      }
+    },
+    {
       "version": "10.26-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
       "urls": {

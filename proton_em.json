@@ -3,6 +3,14 @@
   "display_name": "Proton (EM)",
   "versions": [
     {
+      "version": "10.0-33-proton-em",
+      "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-33/proton-EM-10.0-33.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-33/proton-EM-10.0-33.tar.xz",
+        "aarch64": ""
+      }
+    },
+    {
       "version": "10.0-32-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-32/proton-EM-10.0-32.tar.xz",
       "urls": {
