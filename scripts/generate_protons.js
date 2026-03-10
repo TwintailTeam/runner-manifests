@@ -26,6 +26,9 @@ async function generateManifest(proton_type = "proton_cachyos") {
             let assets_list = r.assets.filter((e) => e.name.includes("slr-x86_64.tar.xz"));
             if (assets_list.length === 0) return;
             let asset = assets_list[0];
+            let assets_list_arm = r.assets.filter((e) => e.name.includes("slr-arm64.tar.xz"));
+            if (assets_list_arm.length === 0) return;
+            let asset_arm = assets_list_arm[0];
             let ver = asset.name.match(/\d+\.\d+-\d+/)[0];
             let latest_ver = r.name.match(/\d+\.\d+-\d+/)[0];
 
@@ -34,7 +37,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 url: `${asset.browser_download_url}`,
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
-                    aarch64: ""
+                    aarch64: `${asset_arm.browser_download_url}`
                 }
             };
 
@@ -55,6 +58,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             final = {
                 version: 1,
                 display_name: "Proton (CachyOS)",
+                aarch64_supported: true,
                 versions: versionslist,
                 paths: {
                     wine32: "proton",
@@ -101,6 +105,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             final = {
                 version: 1,
                 display_name: "Proton (GE)",
+                aarch64_supported: false,
                 versions: versionslist,
                 paths: {
                     wine32: "proton",
@@ -147,6 +152,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             final = {
                 version: 1,
                 display_name: "Proton (EM)",
+                aarch64_supported: false,
                 versions: versionslist,
                 paths: {
                     wine32: "proton",
@@ -193,6 +199,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             final = {
                 version: 1,
                 display_name: "Proton (UMU)",
+                aarch64_supported: false,
                 versions: versionslist,
                 paths: {
                     wine32: "proton",
@@ -210,6 +217,9 @@ async function generateManifest(proton_type = "proton_cachyos") {
             let assets_list = r.assets.filter((e) => e.name.includes("x86_64.tar.xz"));
             if (assets_list.length === 0) return;
             let asset = assets_list[0];
+            let assets_list_arm = r.assets.filter((e) => e.name.includes("arm64.tar.xz"));
+            if (assets_list_arm.length === 0) return;
+            let asset_arm = assets_list_arm[0];
             let ver = asset.name.match(/\d+\.\d+-\d+/)[0];
             let latest_ver = r.name.match(/\d+\.\d+-\d+/)[0];
 
@@ -218,7 +228,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 url: `${asset.browser_download_url}`,
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
-                    aarch64: ""
+                    aarch64: `${asset_arm.browser_download_url}`
                 }
             };
 
@@ -239,6 +249,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             final = {
                 version: 1,
                 display_name: "Proton (Vanilla)",
+                aarch64_supported: true,
                 versions: versionslist,
                 paths: {
                     wine32: "proton",

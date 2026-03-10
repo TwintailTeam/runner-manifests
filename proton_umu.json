@@ -1,6 +1,7 @@
 {
   "version": 1,
   "display_name": "Proton (UMU)",
+  "aarch64_supported": false,
   "versions": [
     {
       "version": "9.0-4e-proton-umu",
