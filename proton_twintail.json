@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "display_name": "Proton (Twintail)",
+  "aarch64_supported": true,
+  "versions": [
+    {
+      "version": "10.0-20260401-proton-twintail",
+      "url": "https://github.com/TwintailTeam/proton-twintail/releases/download/twintail-10.0-20260401-slr/proton-twintail-10.0-20260401-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/TwintailTeam/proton-twintail/releases/download/twintail-10.0-20260401-slr/proton-twintail-10.0-20260401-slr-x86_64.tar.xz",
+        "aarch64": "https://github.com/TwintailTeam/proton-twintail/releases/download/twintail-10.0-20260401-slr/proton-twintail-10.0-20260401-slr-arm64.tar.xz"
+      }
+    }
+  ],
+  "paths": {
+    "wine32": "proton",
+    "wine64": "proton",
+    "wine_server": "files/bin/wineserver",
+    "wine_boot": ""
+  }
+}

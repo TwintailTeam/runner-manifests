@@ -29,6 +29,7 @@ jobs:
           mv proton_em.json scripts/generated/
           mv proton_umu.json scripts/generated/
           mv proton_vanilla.json scripts/generated/
+          mv proton_twintail.json scripts/generated/
       - name: Run all scripts
         run: |
           echo "Current working directory: $(pwd)"
