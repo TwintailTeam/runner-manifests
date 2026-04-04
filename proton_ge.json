@@ -1,6 +1,7 @@
 {
   "version": 1,
   "display_name": "Proton (GE)",
+  "aarch64_supported": false,
   "versions": [
     {
       "version": "10.34-proton-ge",

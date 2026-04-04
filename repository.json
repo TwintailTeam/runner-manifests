@@ -4,15 +4,10 @@
   "maintainers": ["TukanDev"],
   "manifests": [
     "proton_cachyos.json",
+    "proton_twintail.json",
     "proton_ge.json",
     "proton_em.json",
     "proton_vanilla.json",
-    "proton_umu.json",
-    "wine_vanilla.json",
-    "wine_staging.json",
-    "wine_staging_tkg.json",
-    "dxvk_vanilla.json",
-    "dxvk_async.json",
-    "dxvk_gplasync.json"
+    "proton_umu.json"
   ]
 }
