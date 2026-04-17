@@ -4,6 +4,14 @@
   "aarch64_supported": true,
   "versions": [
     {
+      "version": "10.0-20260409-proton-cachyos",
+      "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20260409-slr/proton-cachyos-10.0-20260409-slr-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20260409-slr/proton-cachyos-10.0-20260409-slr-x86_64.tar.xz",
+        "aarch64": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20260409-slr/proton-cachyos-10.0-20260409-slr-arm64.tar.xz"
+      }
+    },
+    {
       "version": "10.0-20260408-proton-cachyos",
       "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-10.0-20260408-slr/proton-cachyos-10.0-20260408-slr-x86_64.tar.xz",
       "urls": {
