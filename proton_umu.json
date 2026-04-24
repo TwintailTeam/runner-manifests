@@ -8,40 +8,55 @@
       "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-10.0-4/UMU-Proton-10.0-4.tar.gz",
       "urls": {
         "x86_64": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-10.0-4/UMU-Proton-10.0-4.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "62e99e029a18fa313e6fa63d42390918101730a940e3491c54d9d58cab887c69",
+        "aarch64_hash": ""
+      },
+      "hash": "62e99e029a18fa313e6fa63d42390918101730a940e3491c54d9d58cab887c69"
     },
     {
       "version": "9.0-4e-proton-umu",
       "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-4e/UMU-Proton-9.0-4e.tar.gz",
       "urls": {
         "x86_64": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-4e/UMU-Proton-9.0-4e.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "d53617d3bdd894f4d5c8fd43e827fffbbcdbb49bf473d7fb3be2618dd471ebf3",
+        "aarch64_hash": ""
+      },
+      "hash": "d53617d3bdd894f4d5c8fd43e827fffbbcdbb49bf473d7fb3be2618dd471ebf3"
     },
     {
       "version": "9.0-3.2-proton-umu",
       "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3.2/UMU-Proton-9.0-3.2.tar.gz",
       "urls": {
         "x86_64": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3.2/UMU-Proton-9.0-3.2.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "b51a2de474027b53bb2c592d216a4c7e94e9fb77ff1ca39af68ebe37d5ecc0bb",
+        "aarch64_hash": ""
+      },
+      "hash": "b51a2de474027b53bb2c592d216a4c7e94e9fb77ff1ca39af68ebe37d5ecc0bb"
     },
     {
       "version": "9.0-3.0-proton-umu",
       "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3/UMU-Proton-9.0-3.tar.gz",
       "urls": {
         "x86_64": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3/UMU-Proton-9.0-3.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "da5f0ecae4dbe3f64d2ee4578778c0e4d4e8ff86d4025000c02ec39b6464c6c7",
+        "aarch64_hash": ""
+      },
+      "hash": "da5f0ecae4dbe3f64d2ee4578778c0e4d4e8ff86d4025000c02ec39b6464c6c7"
     },
     {
       "version": "8.0-5.3-proton-umu",
       "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/ULWGL-Proton-8.0-5-3/ULWGL-Proton-8.0-5-3.tar.gz",
       "urls": {
         "x86_64": "https://github.com/Open-Wine-Components/umu-proton/releases/download/ULWGL-Proton-8.0-5-3/ULWGL-Proton-8.0-5-3.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "266068fe1939a419f38b726b464bfd5a512808f6297bd016b3b31c9ecee3d1b0",
+        "aarch64_hash": ""
+      },
+      "hash": "266068fe1939a419f38b726b464bfd5a512808f6297bd016b3b31c9ecee3d1b0"
     }
   ],
   "paths": {

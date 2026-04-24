@@ -8,72 +8,99 @@
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260417/proton-plop-11.0-20260417-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260417/proton-plop-11.0-20260417-x86_64.tar.xz",
-        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260417/proton-plop-11.0-20260417-arm64.tar.xz"
-      }
+        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260417/proton-plop-11.0-20260417-arm64.tar.xz",
+        "x86_64_hash": "f1b69671061b154bacb11c2673414a3cd97ae0d8bb6fbceb991cf8b730abf232",
+        "aarch64_hash": "abf7e9d0da270b481390cf54ebbd5de49a080d73f0ccdd1f48bef0a390ab81f5"
+      },
+      "hash": "f1b69671061b154bacb11c2673414a3cd97ae0d8bb6fbceb991cf8b730abf232"
     },
     {
       "version": "10.0-20260407-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260407/proton-plop-10.0-20260407-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260407/proton-plop-10.0-20260407-x86_64.tar.xz",
-        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260407/proton-plop-10.0-20260407-arm64.tar.xz"
-      }
+        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260407/proton-plop-10.0-20260407-arm64.tar.xz",
+        "x86_64_hash": "49b81df4902b321af81174f1aa2158b101f4d725bfbbed7cae69051a561344c7",
+        "aarch64_hash": "112125a949f67de89c58f6c311c64721cd5abdbfad16107e05e1e6497285245b"
+      },
+      "hash": "49b81df4902b321af81174f1aa2158b101f4d725bfbbed7cae69051a561344c7"
     },
     {
       "version": "10.0-20260324-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260324/proton-plop-10.0-20260324-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260324/proton-plop-10.0-20260324-x86_64.tar.xz",
-        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260324/proton-plop-10.0-20260324-arm64.tar.xz"
-      }
+        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260324/proton-plop-10.0-20260324-arm64.tar.xz",
+        "x86_64_hash": "c059f8fbd0b77806798d5ffba3e06e415cc8942804f3cc4e4de4ea34e1808ee3",
+        "aarch64_hash": "87d4a25be70dbecec38980060d5cc0f6052aac6c5c4b3859f79b0d752f4290e2"
+      },
+      "hash": "c059f8fbd0b77806798d5ffba3e06e415cc8942804f3cc4e4de4ea34e1808ee3"
     },
     {
       "version": "10.0-20260227-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260227/proton-plop-10.0-20260227-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260227/proton-plop-10.0-20260227-x86_64.tar.xz",
-        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260227/proton-plop-10.0-20260227-arm64.tar.xz"
-      }
+        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260227/proton-plop-10.0-20260227-arm64.tar.xz",
+        "x86_64_hash": "091dd1b379a8230922ced35d677172b1b1c99e903b94dcc502c235772b58caa6",
+        "aarch64_hash": "bc8007dfe476f9c63c28eb5cb51a16403fc255c39bf848d80fc21771dd6dffce"
+      },
+      "hash": "091dd1b379a8230922ced35d677172b1b1c99e903b94dcc502c235772b58caa6"
     },
     {
       "version": "10.0-20260127-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260127/proton-plop-10.0-20260127-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20260127/proton-plop-10.0-20260127-x86_64.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "5ddacba82690f112355efaf64e79360524dde6100155ae42f87b4257734d4667",
+        "aarch64_hash": ""
+      },
+      "hash": "5ddacba82690f112355efaf64e79360524dde6100155ae42f87b4257734d4667"
     },
     {
       "version": "10.0-20251222-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20251222/proton-plop-10.0-20251222-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20251222/proton-plop-10.0-20251222-x86_64.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "d75d35c523160be81d4bc87f986d5c35b549b4f9cc277424afb6fc76a6fdd425",
+        "aarch64_hash": ""
+      },
+      "hash": "d75d35c523160be81d4bc87f986d5c35b549b4f9cc277424afb6fc76a6fdd425"
     },
     {
       "version": "10.0-20251208-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20251208/proton-plop-10.0-20251208-x86_64.tar.xz",
       "urls": {
         "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-10.0-20251208/proton-plop-10.0-20251208-x86_64.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "b0a3ef9afcf0bfbc1b69aff0c04a8a35bbd8864e70d9af79f790623dcbb710dc",
+        "aarch64_hash": ""
+      },
+      "hash": "b0a3ef9afcf0bfbc1b69aff0c04a8a35bbd8864e70d9af79f790623dcbb710dc"
     },
     {
       "version": "10.0-2c-proton-vanilla",
       "url": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-2c/proton-10.0-2c.tar.xz",
       "urls": {
         "x86_64": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-2c/proton-10.0-2c.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "238c27581a86bf0207b68430bcb89c6fd43ce78eda8b51050760fc6a1c696115",
+        "aarch64_hash": ""
+      },
+      "hash": "238c27581a86bf0207b68430bcb89c6fd43ce78eda8b51050760fc6a1c696115"
     },
     {
       "version": "10.0-1f-proton-vanilla",
       "url": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-1f/proton-10.0-1f.tar.xz",
       "urls": {
         "x86_64": "https://github.com/MrLGamer/Proton-Vanilla/releases/download/proton-10.0-1f/proton-10.0-1f.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "ce565c68a17c5c624ef4805b2baf0250f2b1a7cb5c36bb82d718d6463568a1c2",
+        "aarch64_hash": ""
+      },
+      "hash": "ce565c68a17c5c624ef4805b2baf0250f2b1a7cb5c36bb82d718d6463568a1c2"
     }
   ],
   "paths": {
