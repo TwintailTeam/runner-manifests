@@ -8,88 +8,121 @@
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-37-HDR/proton-EM-10.0-37-HDR.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-37-HDR/proton-EM-10.0-37-HDR.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "sha256:5bfd81ceb423b365b547803d434fd5157defeae51160bbf6657265bc4340586d",
+        "aarch64_hash": ""
+      },
+      "hash": "sha256:5bfd81ceb423b365b547803d434fd5157defeae51160bbf6657265bc4340586d"
     },
     {
       "version": "10.0-36-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-36-HDRTEST/proton-EM-10.0-36-HDRTEST.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-36-HDRTEST/proton-EM-10.0-36-HDRTEST.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "c9c7899501d5b26683e73ec4258a0d969865f95711266d51a0e7ead0c2c187c5",
+        "aarch64_hash": ""
+      },
+      "hash": "c9c7899501d5b26683e73ec4258a0d969865f95711266d51a0e7ead0c2c187c5"
     },
     {
       "version": "10.0-34-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-34/proton-EM-10.0-34.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-34/proton-EM-10.0-34.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "d96805e71fb7e0f91588755860bd74265d111b27bd40c5e1acd35730179546ba",
+        "aarch64_hash": ""
+      },
+      "hash": "d96805e71fb7e0f91588755860bd74265d111b27bd40c5e1acd35730179546ba"
     },
     {
       "version": "10.0-33-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-33/proton-EM-10.0-33.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-33/proton-EM-10.0-33.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "51edc39eda752ae123211317c485ed74534c3301e8c91c88547069410d8a00af",
+        "aarch64_hash": ""
+      },
+      "hash": "51edc39eda752ae123211317c485ed74534c3301e8c91c88547069410d8a00af"
     },
     {
       "version": "10.0-32-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-32/proton-EM-10.0-32.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-32/proton-EM-10.0-32.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "5974088396196cb579fbc51867896c44beceb4f9355532070733f75d87f4478c",
+        "aarch64_hash": ""
+      },
+      "hash": "5974088396196cb579fbc51867896c44beceb4f9355532070733f75d87f4478c"
     },
     {
       "version": "10.0-31-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-31/proton-EM-10.0-31.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-31/proton-EM-10.0-31.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "65b3febfabcd13319cce972af86bec6eaf1e4ec7325f0a61231e020887c74f50",
+        "aarch64_hash": ""
+      },
+      "hash": "65b3febfabcd13319cce972af86bec6eaf1e4ec7325f0a61231e020887c74f50"
     },
     {
       "version": "10.0-30-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-30/proton-EM-10.0-30.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-30/proton-EM-10.0-30.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "90386350996ca60ad011bb63277207490134314efee24675a09154d0d2af7e5a",
+        "aarch64_hash": ""
+      },
+      "hash": "90386350996ca60ad011bb63277207490134314efee24675a09154d0d2af7e5a"
     },
     {
       "version": "10.0-2f-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2F/proton-EM-10.0-2F.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2F/proton-EM-10.0-2F.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "991276f2a33377855c2c57f8abc37a3a34c012fb40a425adb58ac62a55c7e43c",
+        "aarch64_hash": ""
+      },
+      "hash": "991276f2a33377855c2c57f8abc37a3a34c012fb40a425adb58ac62a55c7e43c"
     },
     {
       "version": "10.0-2e-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2E/proton-EM-10.0-2E.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2E/proton-EM-10.0-2E.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "a42576cecd2e1b06d5c43dfc53e49fa4ff05f83951a2cb08b4e8d99c07ee105d",
+        "aarch64_hash": ""
+      },
+      "hash": "a42576cecd2e1b06d5c43dfc53e49fa4ff05f83951a2cb08b4e8d99c07ee105d"
     },
     {
       "version": "10.0-2d-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2D/proton-EM-10.0-2D.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2D/proton-EM-10.0-2D.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "c60fd355dc018ee0a7d42e5f38c2ff7fd0d5861f1c43ba49ccc72ed2659a543f",
+        "aarch64_hash": ""
+      },
+      "hash": "c60fd355dc018ee0a7d42e5f38c2ff7fd0d5861f1c43ba49ccc72ed2659a543f"
     },
     {
       "version": "10.0-2c-proton-em",
       "url": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2C/proton-EM-10.0-2C.tar.xz",
       "urls": {
         "x86_64": "https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-2C/proton-EM-10.0-2C.tar.xz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "4c5a4fa0070970699a76f1751644652e9e2108ff69d11cb56910cb082e66ca19",
+        "aarch64_hash": ""
+      },
+      "hash": "4c5a4fa0070970699a76f1751644652e9e2108ff69d11cb56910cb082e66ca19"
     }
   ],
   "paths": {

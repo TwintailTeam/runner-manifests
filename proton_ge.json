@@ -8,184 +8,253 @@
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-34/GE-Proton10-34.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "sha256:51c580b66a833c73998fe00f0717eeac57197654040a2f2ed5189e3ee68d773d",
+        "aarch64_hash": ""
+      },
+      "hash": "sha256:51c580b66a833c73998fe00f0717eeac57197654040a2f2ed5189e3ee68d773d"
     },
     {
       "version": "10.33-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-33/GE-Proton10-33.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-33/GE-Proton10-33.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "850407c79582979022217b2fba1a8dbf6a90a46342ad1bbbd277c6c263c318b9",
+        "aarch64_hash": ""
+      },
+      "hash": "850407c79582979022217b2fba1a8dbf6a90a46342ad1bbbd277c6c263c318b9"
     },
     {
       "version": "10.32-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-32/GE-Proton10-32.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-32/GE-Proton10-32.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "0b0d3fd9ed477cdf705a26cde3b88afb19392fb1330d04b7fa44d39a1b48c6db",
+        "aarch64_hash": ""
+      },
+      "hash": "0b0d3fd9ed477cdf705a26cde3b88afb19392fb1330d04b7fa44d39a1b48c6db"
     },
     {
       "version": "10.31-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-31/GE-Proton10-31.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-31/GE-Proton10-31.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "cfb95fa83282b43ff844930294908f2e3dca596272e47662669c10b3cdce956a",
+        "aarch64_hash": ""
+      },
+      "hash": "cfb95fa83282b43ff844930294908f2e3dca596272e47662669c10b3cdce956a"
     },
     {
       "version": "10.30-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-30/GE-Proton10-30.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-30/GE-Proton10-30.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "4cd79c0f752d338b4dc1d2efe53b9a9c2c2272d60bced32f6671c2ccddc9da1a",
+        "aarch64_hash": ""
+      },
+      "hash": "4cd79c0f752d338b4dc1d2efe53b9a9c2c2272d60bced32f6671c2ccddc9da1a"
     },
     {
       "version": "10.29-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-29/GE-Proton10-29.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-29/GE-Proton10-29.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "29a42ff004e9e5c79e22fa9a0595490284167d4a2e7cabbe570b1f9c2f3295c0",
+        "aarch64_hash": ""
+      },
+      "hash": "29a42ff004e9e5c79e22fa9a0595490284167d4a2e7cabbe570b1f9c2f3295c0"
     },
     {
       "version": "10.28-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-28/GE-Proton10-28.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-28/GE-Proton10-28.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "4c5cc46e7f1af53f610e02c60bc9470db0d82e072b0072372ef588a82c4de316",
+        "aarch64_hash": ""
+      },
+      "hash": "4c5cc46e7f1af53f610e02c60bc9470db0d82e072b0072372ef588a82c4de316"
     },
     {
       "version": "10.27-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-27/GE-Proton10-27.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "a4d978edf79b6e8611a6b5a5337145ba32b866670049c198cd73b15bd29d54a9",
+        "aarch64_hash": ""
+      },
+      "hash": "a4d978edf79b6e8611a6b5a5337145ba32b866670049c198cd73b15bd29d54a9"
     },
     {
       "version": "10.26-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-26/GE-Proton10-26.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "e2ffd9d2a1ece30b5da3d3dc9cedaa82875008d1c984b5efc7666c028203f9db",
+        "aarch64_hash": ""
+      },
+      "hash": "e2ffd9d2a1ece30b5da3d3dc9cedaa82875008d1c984b5efc7666c028203f9db"
     },
     {
       "version": "10.25-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-25/GE-Proton10-25.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-25/GE-Proton10-25.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "b0e4a71cd8a6110a222934d5512725110c0e3b780f5f293d127a6d1eb9c8ba6d",
+        "aarch64_hash": ""
+      },
+      "hash": "b0e4a71cd8a6110a222934d5512725110c0e3b780f5f293d127a6d1eb9c8ba6d"
     },
     {
       "version": "10.24-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-24/GE-Proton10-24.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-24/GE-Proton10-24.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "bd41f05d538fbf48060b4e1751040564454f7c6e3bbaa827fc0297b952b2ede5",
+        "aarch64_hash": ""
+      },
+      "hash": "bd41f05d538fbf48060b4e1751040564454f7c6e3bbaa827fc0297b952b2ede5"
     },
     {
       "version": "10.23-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-23/GE-Proton10-23.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-23/GE-Proton10-23.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "fb0401df70ca8ea10fdbd1b9a839164d5d29cecb919c07b1e9762afdb119f59a",
+        "aarch64_hash": ""
+      },
+      "hash": "fb0401df70ca8ea10fdbd1b9a839164d5d29cecb919c07b1e9762afdb119f59a"
     },
     {
       "version": "10.22-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-22/GE-Proton10-22.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-22/GE-Proton10-22.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "c51e66561cba18d2f88c296a46d4f02ef65ed6a461316ae7bed12697307d9716",
+        "aarch64_hash": ""
+      },
+      "hash": "c51e66561cba18d2f88c296a46d4f02ef65ed6a461316ae7bed12697307d9716"
     },
     {
       "version": "10.21-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-21/GE-Proton10-21.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-21/GE-Proton10-21.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "bcc053290dfcb94cd3f88ddc67d96cb0421a08da8ec48554cf8a9f287f69b40b",
+        "aarch64_hash": ""
+      },
+      "hash": "bcc053290dfcb94cd3f88ddc67d96cb0421a08da8ec48554cf8a9f287f69b40b"
     },
     {
       "version": "10.17-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-17/GE-Proton10-17.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "4a0306d2d35fc1e22e6dd80f7a9882d1907737682339e223f83840850e4f3141",
+        "aarch64_hash": ""
+      },
+      "hash": "4a0306d2d35fc1e22e6dd80f7a9882d1907737682339e223f83840850e4f3141"
     },
     {
       "version": "10.15-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-15/GE-Proton10-15.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-15/GE-Proton10-15.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "0b9f4539a75d6236e71ea4e777d0528df865f33f02286f805ab69601af5d3683",
+        "aarch64_hash": ""
+      },
+      "hash": "0b9f4539a75d6236e71ea4e777d0528df865f33f02286f805ab69601af5d3683"
     },
     {
       "version": "10.14-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-14/GE-Proton10-14.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-14/GE-Proton10-14.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "9fb0f5d27ec4079b234bed059737ca40a3d4e4d330133d273b051801e303eb07",
+        "aarch64_hash": ""
+      },
+      "hash": "9fb0f5d27ec4079b234bed059737ca40a3d4e4d330133d273b051801e303eb07"
     },
     {
       "version": "10.13-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-13/GE-Proton10-13.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "be0c78f8664636dd3537af74ab555ced9486437baed61026299312c33373069b",
+        "aarch64_hash": ""
+      },
+      "hash": "be0c78f8664636dd3537af74ab555ced9486437baed61026299312c33373069b"
     },
     {
       "version": "10.12-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-12/GE-Proton10-12.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "47dffcff346b35c75649a95a012ad4e9b6376087dceb43ac7b695e04f5ed3c1e",
+        "aarch64_hash": ""
+      },
+      "hash": "47dffcff346b35c75649a95a012ad4e9b6376087dceb43ac7b695e04f5ed3c1e"
     },
     {
       "version": "10.11-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-11/GE-Proton10-11.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "827a746cc85d67de42571a56eadd31c0e3c8947bc6e73df193b34ff6ed7602d7",
+        "aarch64_hash": ""
+      },
+      "hash": "827a746cc85d67de42571a56eadd31c0e3c8947bc6e73df193b34ff6ed7602d7"
     },
     {
       "version": "10.10-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-10/GE-Proton10-10.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-10/GE-Proton10-10.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "f508eff3a5900f86bc44d1a4e790bfb445b348a0298262d04e8696031c7ef470",
+        "aarch64_hash": ""
+      },
+      "hash": "f508eff3a5900f86bc44d1a4e790bfb445b348a0298262d04e8696031c7ef470"
     },
     {
       "version": "9.26-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "f299a23a91e0096e1a438ef10304318ecb960cdc2c4204a33b725ddb4737dbdd",
+        "aarch64_hash": ""
+      },
+      "hash": "f299a23a91e0096e1a438ef10304318ecb960cdc2c4204a33b725ddb4737dbdd"
     },
     {
       "version": "9.25-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz",
       "urls": {
         "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz",
-        "aarch64": ""
-      }
+        "aarch64": "",
+        "x86_64_hash": "88e713ea5ce6195517f956cfa05b352c2fad4b8bb1c7df54b293148f2dffc78f",
+        "aarch64_hash": ""
+      },
+      "hash": "88e713ea5ce6195517f956cfa05b352c2fad4b8bb1c7df54b293148f2dffc78f"
     }
   ],
   "paths": {
