@@ -40,10 +40,10 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
                     aarch64: `${asset_arm.browser_download_url}`,
-                    x86_64_hash: `${asset.digest}`,
-                    aarch64_hash: `${asset_arm.digest}`
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
+                    aarch64_hash: `${asset_arm["digest"]}`.replace("sha256:", "")
                 },
-                hash: `${asset.digest}`
+                hash: `${asset["digest"]}`.replace("sha256:", "")
             };
 
             let versionslist = [];
@@ -90,10 +90,10 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
                     aarch64: "",
-                    x86_64_hash: `${asset.digest}`,
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
                     aarch64_hash: ""
                 },
-                hash: `${asset.digest}`
+                hash: `${asset["digest"]}`.replace("sha256:", "")
             };
 
             let versionslist = [];
@@ -140,10 +140,10 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
                     aarch64: "",
-                    x86_64_hash: `${asset.digest}`,
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
                     aarch64_hash: ""
                 },
-                hash: `${asset.digest}`
+                hash: `${asset["digest"]}`.replace("sha256:", "")
             };
 
             let versionslist = [];
@@ -190,10 +190,10 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
                     aarch64: "",
-                    x86_64_hash: `${asset.digest}`,
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
                     aarch64_hash: ""
                 },
-                hash: `${asset.digest}`
+                hash: `${asset["digest"]}`.replace("sha256:", "")
             };
 
             let versionslist = [];
@@ -243,10 +243,10 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
                     aarch64: `${asset_arm.browser_download_url}`,
-                    x86_64_hash: `${asset.digest}`,
-                    aarch64_hash: `${asset_arm.digest}`
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
+                    aarch64_hash: `${asset_arm["digest"]}`.replace("sha256:", "")
                 },
-                hash: `${asset.digest}`
+                hash: `${asset["digest"]}`.replace("sha256:", "")
             };
 
             let versionslist = [];
@@ -296,10 +296,10 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
                     aarch64: `${asset_arm.browser_download_url}`,
-                    x86_64_hash: `${asset.digest}`,
-                    aarch64_hash: `${asset_arm.digest}`
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
+                    aarch64_hash: `${asset_arm["digest"]}`.replace("sha256:", "")
                 },
-                hash: `${asset.digest}`
+                hash: `${asset["digest"]}`.replace("sha256:", "")
             };
 
             let versionslist = [];

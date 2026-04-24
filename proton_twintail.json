@@ -9,10 +9,10 @@
       "urls": {
         "x86_64": "https://github.com/TwintailTeam/proton-twintail/releases/download/twintail-10.0-20260420-slr/proton-twintail-10.0-20260420-slr-x86_64.tar.xz",
         "aarch64": "https://github.com/TwintailTeam/proton-twintail/releases/download/twintail-10.0-20260420-slr/proton-twintail-10.0-20260420-slr-arm64.tar.xz",
-        "x86_64_hash": "sha256:2e4b9335bcc71fc3006eb6ece873ef13aff3fa6c57a8a419a8fdac030f2e9d4b",
-        "aarch64_hash": "sha256:5d3c628679694e5de055cb315d0e671553edc564c54a3178781bb2ba13ae193e"
+        "x86_64_hash": "2e4b9335bcc71fc3006eb6ece873ef13aff3fa6c57a8a419a8fdac030f2e9d4b",
+        "aarch64_hash": "5d3c628679694e5de055cb315d0e671553edc564c54a3178781bb2ba13ae193e"
       },
-      "hash": "sha256:2e4b9335bcc71fc3006eb6ece873ef13aff3fa6c57a8a419a8fdac030f2e9d4b"
+      "hash": "2e4b9335bcc71fc3006eb6ece873ef13aff3fa6c57a8a419a8fdac030f2e9d4b"
     },
     {
       "version": "10.0-20260401-proton-twintail",

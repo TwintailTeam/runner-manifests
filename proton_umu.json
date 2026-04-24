@@ -9,10 +9,10 @@
       "urls": {
         "x86_64": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-10.0-4/UMU-Proton-10.0-4.tar.gz",
         "aarch64": "",
-        "x86_64_hash": "sha256:62e99e029a18fa313e6fa63d42390918101730a940e3491c54d9d58cab887c69",
+        "x86_64_hash": "62e99e029a18fa313e6fa63d42390918101730a940e3491c54d9d58cab887c69",
         "aarch64_hash": ""
       },
-      "hash": "sha256:62e99e029a18fa313e6fa63d42390918101730a940e3491c54d9d58cab887c69"
+      "hash": "62e99e029a18fa313e6fa63d42390918101730a940e3491c54d9d58cab887c69"
     },
     {
       "version": "9.0-4e-proton-umu",
