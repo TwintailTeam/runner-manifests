@@ -78,9 +78,12 @@ async function generateManifest(proton_type = "proton_cachyos") {
             let rsp = await fetch(`${URLS.proton_ge}`);
             if (rsp.status !== 200) return;
             let r = await rsp.json();
-            let assets_list = r.assets.filter((e) => e.name.includes(".tar.gz"));
+            let assets_list = r.assets.filter((e) => e.name.includes(".tar.gz") && !e.name.includes("aarch64.tar.gz"));
             if (assets_list.length === 0) return;
             let asset = assets_list[0];
+            let assets_list_arm = r.assets.filter((e) => e.name.includes("aarch64.tar.gz"));
+            if (assets_list_arm.length === 0) return;
+            let asset_arm = assets_list_arm[0];
             let ver = `${asset.name.match(/(\d+)-(\d+)/)[0].replace("-", ".")}`;
             let latest_ver = `${r.name.match(/(\d+)-(\d+)/)[0].replace("-", ".")}`;
 
@@ -89,9 +92,9 @@ async function generateManifest(proton_type = "proton_cachyos") {
                 url: `${asset.browser_download_url}`,
                 urls: {
                     x86_64: `${asset.browser_download_url}`,
-                    aarch64: "",
+                    aarch64: `${asset_arm.browser_download_url}`,
                     x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
-                    aarch64_hash: ""
+                    aarch64_hash: `${asset_arm["digest"]}`.replace("sha256:", "")
                 },
                 hash: `${asset["digest"]}`.replace("sha256:", "")
             };
@@ -113,7 +116,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             final = {
                 version: 1,
                 display_name: "Proton (GE)",
-                aarch64_supported: false,
+                aarch64_supported: true,
                 versions: versionslist,
                 paths: {
                     wine32: "proton",
