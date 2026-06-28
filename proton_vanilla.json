@@ -4,6 +4,17 @@
   "aarch64_supported": true,
   "versions": [
     {
+      "version": "11.0-20260622-proton-vanilla",
+      "url": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260622/proton-plop-11.0-20260622-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260622/proton-plop-11.0-20260622-x86_64.tar.xz",
+        "aarch64": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260622/proton-plop-11.0-20260622-arm64.tar.xz",
+        "x86_64_hash": "edfa8c7f83e0fd8f17b20932517c5fcb0a9659823f0776b94d80ed040c7dbc26",
+        "aarch64_hash": "62a3d5f2926f3b11718c89d48c1017700ec89a57851c0e9716fcffa053a2150e"
+      },
+      "hash": "edfa8c7f83e0fd8f17b20932517c5fcb0a9659823f0776b94d80ed040c7dbc26"
+    },
+    {
       "version": "11.0-20260617-proton-vanilla",
       "url": "https://github.com/loathingKernel/Proton/releases/download/plop-11.0-20260617/proton-plop-11.0-20260617-x86_64.tar.xz",
       "urls": {
