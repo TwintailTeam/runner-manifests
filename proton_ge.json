@@ -4,6 +4,17 @@
   "aarch64_supported": true,
   "versions": [
     {
+      "version": "11.5-proton-ge",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-5/GE-Proton11-5-x86_64.tar.gz",
+      "urls": {
+        "x86_64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-5/GE-Proton11-5-x86_64.tar.gz",
+        "aarch64": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-5/GE-Proton11-5-aarch64.tar.gz",
+        "x86_64_hash": "de43c4b25f3c047db49b96c44d84759952c5a01332a68805a09e69f95dc38a75",
+        "aarch64_hash": "65ec846365ca975f57c29605236d4406f2ca775de9622f3131acfff18f214546"
+      },
+      "hash": "de43c4b25f3c047db49b96c44d84759952c5a01332a68805a09e69f95dc38a75"
+    },
+    {
       "version": "11.3-proton-ge",
       "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton11-3/GE-Proton11-3.tar.gz",
       "urls": {
