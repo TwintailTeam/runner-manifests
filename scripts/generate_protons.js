@@ -3,10 +3,11 @@ const {writeFileSync, existsSync, readFileSync} = require("fs");
 let URLS = {
     cachyos_proton: "https://api.github.com/repos/CachyOS/proton-cachyos/releases/latest",
     proton_ge: "https://api.github.com/repos/GloriousEggroll/proton-ge-custom/releases/latest",
-    proton_em: "https://api.github.com/repos/Etaash-mathamsetty/Proton/releases/latest",
+    proton_em: "https://api.github.com/repos/BananaWorks07/Proton/releases/latest",
     proton_umu: "https://api.github.com/repos/Open-Wine-Components/umu-proton/releases/latest",
     proton_vanilla: "https://api.github.com/repos/loathingKernel/Proton/releases/latest",
-    proton_twintail: "https://api.github.com/repos/TwintailTeam/proton-twintail/releases/latest"
+    proton_twintail: "https://api.github.com/repos/TwintailTeam/proton-twintail/releases/latest",
+    wineland_proton: "https://api.github.com/repos/nanomatters/proton-cachyos/releases/latest",
 };
 
 let PATHS = {
@@ -15,7 +16,8 @@ let PATHS = {
     proton_em: `${__dirname}/generated/proton_em.json`,
     proton_umu: `${__dirname}/generated/proton_umu.json`,
     proton_vanilla: `${__dirname}/generated/proton_vanilla.json`,
-    proton_twintail: `${__dirname}/generated/proton_twintail.json`
+    proton_twintail: `${__dirname}/generated/proton_twintail.json`,
+    wineland_proton: `${__dirname}/generated/proton_wineland.json`,
 }
 
 async function generateManifest(proton_type = "proton_cachyos") {
@@ -333,6 +335,56 @@ async function generateManifest(proton_type = "proton_cachyos") {
             };
         }
         break;
+        case "proton_wineland": {
+            let rsp = await fetch(`${URLS.wineland_proton}`);
+            if (rsp.status !== 200) return;
+            let r = await rsp.json();
+            let assets_list = r.assets.filter((e) => e.name.includes("slr-x86_64.tar.xz"));
+            if (assets_list.length === 0) return;
+            let asset = assets_list[0];
+            let ver = asset.name.match(/\d+\.\d+-\d+/)[0];
+            let latest_ver = r.name.match(/\d+\.\d+-\d+/)[0];
+
+            let versioninfo = {
+                version: `${ver}-proton-wineland`,
+                url: `${asset.browser_download_url}`,
+                urls: {
+                    x86_64: `${asset.browser_download_url}`,
+                    aarch64: ``,
+                    x86_64_hash: `${asset["digest"]}`.replace("sha256:", ""),
+                    aarch64_hash: ``
+                },
+                hash: `${asset["digest"]}`.replace("sha256:", "")
+            };
+
+            let versionslist = [];
+            // append version
+            if (process.argv[2] === "append") {
+                if (existsSync(PATHS.wineland_proton)) {
+                    let currentf = readFileSync(PATHS.wineland_proton);
+                    let data = JSON.parse(currentf);
+                    versionslist.push(versioninfo);
+
+                    data.versions.forEach(v => {
+                        if (v.version.toLowerCase().replace("-cachyos-wineland", "") !== latest_ver) {versionslist.push(v);}
+                    });
+                } else {versionslist.push(versioninfo);}
+            } else {versionslist.push(versioninfo);}
+
+            final = {
+                version: 1,
+                display_name: "Proton (Wineland)",
+                aarch64_supported: false,
+                versions: versionslist,
+                paths: {
+                    wine32: "proton",
+                    wine64: "proton",
+                    wine_server: "files/bin/wineserver",
+                    wine_boot: ""
+                }
+            };
+        }
+        break;
     }
     return final;
 }
@@ -343,3 +395,4 @@ generateManifest("proton_em").then(r => writeFileSync(PATHS.proton_em, JSON.stri
 generateManifest("proton_umu").then(r => writeFileSync(PATHS.proton_umu, JSON.stringify(r, null, 2), {encoding: "utf8"}));
 generateManifest("proton_vanilla").then(r => writeFileSync(PATHS.proton_vanilla, JSON.stringify(r, null, 2), {encoding: "utf8"}));
 generateManifest("proton_twintail").then(r => writeFileSync(PATHS.proton_twintail, JSON.stringify(r, null, 2), {encoding: "utf8"}));
+generateManifest("proton_wineland").then(r => writeFileSync(PATHS.wineland_proton, JSON.stringify(r, null, 2), {encoding: "utf8"}));
