@@ -339,7 +339,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
             let rsp = await fetch(`${URLS.wineland_proton}`);
             if (rsp.status !== 200) return;
             let r = await rsp.json();
-            let assets_list = r.assets.filter((e) => e.name.includes("slr-x86_64.tar.xz"));
+            let assets_list = r.assets.filter((e) => e.name.includes("x86_64.tar.xz"));
             if (assets_list.length === 0) return;
             let asset = assets_list[0];
             let ver = asset.name.match(/\d+\.\d+-\d+/)[0];
@@ -366,7 +366,7 @@ async function generateManifest(proton_type = "proton_cachyos") {
                     versionslist.push(versioninfo);
 
                     data.versions.forEach(v => {
-                        if (v.version.toLowerCase().replace("-cachyos-wineland", "") !== latest_ver) {versionslist.push(v);}
+                        if (v.version.toLowerCase().replace("-proton-wineland", "") !== latest_ver) {versionslist.push(v);}
                     });
                 } else {versionslist.push(versioninfo);}
             } else {versionslist.push(versioninfo);}
