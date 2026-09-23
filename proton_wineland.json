@@ -4,6 +4,17 @@
   "aarch64_supported": false,
   "versions": [
     {
+      "version": "11.0-20260922-proton-wineland",
+      "url": "https://github.com/nanomatters/proton-cachyos/releases/download/wineland-11.0-20260922/proton-wineland-11.0-20260922-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/nanomatters/proton-cachyos/releases/download/wineland-11.0-20260922/proton-wineland-11.0-20260922-x86_64.tar.xz",
+        "aarch64": "",
+        "x86_64_hash": "b9c187a395122faf9e44f0cb7ba4b47e2940e2e9a52d962e2102642c1e9cc72b",
+        "aarch64_hash": ""
+      },
+      "hash": "b9c187a395122faf9e44f0cb7ba4b47e2940e2e9a52d962e2102642c1e9cc72b"
+    },
+    {
       "version": "11.0-20260917-proton-wineland",
       "url": "https://github.com/nanomatters/proton-cachyos/releases/download/wineland-11.0-20260917/proton-wineland-11.0-20260917-x86_64.tar.xz",
       "urls": {
