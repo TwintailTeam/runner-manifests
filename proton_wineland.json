@@ -4,6 +4,17 @@
   "aarch64_supported": false,
   "versions": [
     {
+      "version": "11.0-20261024-proton-wineland",
+      "url": "https://github.com/nanomatters/proton-salkim/releases/download/wineland-11.0-20261024/proton-wineland-11.0-20261024-x86_64.tar.xz",
+      "urls": {
+        "x86_64": "https://github.com/nanomatters/proton-salkim/releases/download/wineland-11.0-20261024/proton-wineland-11.0-20261024-x86_64.tar.xz",
+        "aarch64": "",
+        "x86_64_hash": "22aae8b2027da8485581ddf7709f9a84787830bdb26dc1657d25f219d3ddfd23",
+        "aarch64_hash": ""
+      },
+      "hash": "22aae8b2027da8485581ddf7709f9a84787830bdb26dc1657d25f219d3ddfd23"
+    },
+    {
       "version": "11.0-20261022-proton-wineland",
       "url": "https://github.com/nanomatters/proton-salkim/releases/download/wineland-11.0-20261022/proton-wineland-11.0-20261022-x86_64.tar.xz",
       "urls": {
